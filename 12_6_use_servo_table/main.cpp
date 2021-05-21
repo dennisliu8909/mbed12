@@ -37,7 +37,7 @@ int main() {
    while(1) {
 
    //TODO: revise this value according to your result
-   servo_control(37.222);
+   servo_control(-21.18);
 
    steps = 0;
    t.reset();
